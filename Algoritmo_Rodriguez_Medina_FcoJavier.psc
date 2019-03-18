@@ -1,6 +1,6 @@
 Subproceso avisos
-	Escribir "No se permiten números negativos."
-	Escribir "Introduzca un número válido."
+	Escribir "No se permiten nÃºmeros negativos."
+	Escribir "Introduzca un nÃºmero vÃ¡lido."
 FinSubProceso
 
 Algoritmo Promedio
@@ -13,7 +13,7 @@ Algoritmo Promedio
 				avisos
 			SiNo
 				Si n=0 Entonces
-					Escribir "El número debe ser mayor de 0"
+					Escribir "El nÃºmero debe ser mayor de 0"
 				FinSi
 			FinSi
 			
